@@ -11,6 +11,33 @@
 # DV            31/01/2021     Initial Version with color        V 1.0
 #  
 
+
+"
+Idea is for script to run quick standard basic checks and report back and advise on potential issues.
+Generic
+. Disk space
+. Memory
+. swap usage
+. Load
+. top memory process 
+. top CPU process
+. uvscan process
+. Look for OS crash files
+
+
+AEM
+. Responding
+. Jetty threads
+. JVM Memory
+. Replication/Flush argument
+. Slow requests in past hour ot 10min?
+. Disk stat for AEM
+
+
+Dispatcher
+
+"
+
 PATH=$PATH:/usr/bin:/usr/sbin:/usr/local/bin:/bin:/opt/csw/bin:/usr/ccs/bin
 HOSTNAME=`hostname`
 DATE=`date +%Y%m%d`
