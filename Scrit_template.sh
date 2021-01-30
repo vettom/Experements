@@ -8,7 +8,7 @@
 # ----------------------------------------------------------------------------
 # Name          Date            Comment                         Version
 # ----------------------------------------------------------------------------
-# DV            31/03/2020     Initial Version with color        V 1.0
+# DV            31/01/2021     Initial Version with color        V 1.0
 #  
 
 PATH=$PATH:/usr/bin:/usr/sbin:/usr/local/bin:/bin:/opt/csw/bin:/usr/ccs/bin
