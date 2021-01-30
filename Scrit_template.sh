@@ -82,10 +82,8 @@ function CHECK_FAILURE
         fi
 }
 
-function R { echo -e "\e[31m $1 \e[0m " }
-function G { 
-                echo -e "\e[0;32m $1 \e[0m "  
-            }
+function R { echo -e "\e[31m $1 \e[0m "   }
+function G { echo -e "\e[0;32m $1 \e[0m"  }
             
 function P { 
                 echo -e "\e[35m $1 \e[0m "  
